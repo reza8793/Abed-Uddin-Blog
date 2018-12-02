@@ -417,7 +417,8 @@ a:hover, a:active {
 }
 
 .yt-subscribe img {
-    width: 160px;
+    width: 300px;
+    height: 200px;
     max-width: 100%;
 }
 
