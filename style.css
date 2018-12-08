@@ -337,7 +337,7 @@ a:hover, a:active {
 }
 
 .hero-slider img {
-    width: 100%;
+    width: 70%;
     height: auto;
 }
 
@@ -417,8 +417,7 @@ a:hover, a:active {
 }
 
 .yt-subscribe img {
-    width: 300px;
-    height: 200px;
+    height: 180px;
     max-width: 100%;
 }
 
